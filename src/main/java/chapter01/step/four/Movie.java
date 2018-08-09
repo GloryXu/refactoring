@@ -1,4 +1,4 @@
-package chapter01.step.three;
+package chapter01.step.four;
 
 import lombok.Getter;
 import lombok.Setter;
