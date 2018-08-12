@@ -1,0 +1,11 @@
+数个重构手法
+1.Extract Method
+    提取方法
+2.Move Method
+    移动方法
+3.Replace Conditional with Polymorphism
+    多态代替条件
+4.Self Encapsulate Field
+    自封装属性
+5.Replace Type code with State/Strategy
+    用状态/策略模式替代类型码
